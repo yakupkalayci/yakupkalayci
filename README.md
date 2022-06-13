@@ -1,14 +1,9 @@
 ### Hi there 👋, I am a Frontend Developer from İstanbul, Turkey.
 
-<!--
-**yakupkalayci/yakupkalayci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently studying at Yildiz Technical University
 - 🌱 I’m currently learning React, Next.js, Redux, TypeScript
 - 📫 How to reach me: ykpklyc18@gmail.com
--->
+
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yakup_klyc) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yakupkalayci) 
