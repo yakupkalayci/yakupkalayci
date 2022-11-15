@@ -1,5 +1,5 @@
 ### Hi there 👋, I am a Frontend Developer from İstanbul, Turkey.
-🔭 I’m currently studying at Yildiz Technical University<br>🌱 I’m currently learning React.js, Next.js, Redux, TypeScript<br>📫 How to reach me: ykpklyc18@gmail.com
+🔭 I’m currently studying at Yildiz Technical University<br>🌱 I’m currently learning Next.js, Redux, TypeScrip, Ant Designt<br>📫 How to reach me: ykpklyc18@gmail.com
 
 
 ## 🌐 Socials:
