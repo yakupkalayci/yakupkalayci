@@ -1,5 +1,5 @@
 ### Hi there 👋, I am a Frontend Developer from İstanbul, Turkey.
-🔭 I’m open to learn new technologies, especially in web and mobile programming. <br>💻 I make projects and publish them on my GitHub page.<br>🌱 I’m currently learning Angular, NextJS, RxJS, TypeScript, and Ant Design<br>📫 How to reach me: ykpklyc18@gmail.com
+🔭 I’m open to learn new technologies, especially in web and mobile programming. <br>💻 I make projects and publish them on my GitHub page.<br>🌱 I’m currently learning NextJS, Vue.JS, TypeScript, Chakra-UI, Ant Design<br>📫 How to reach me: ykpklyc18@gmail.com
 
 
 ## 🌐 Socials:
